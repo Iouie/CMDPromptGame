@@ -1,0 +1,12 @@
+F:\GDAPSHW\LouieS-HW6\LouieS-HW1\bin\Debug\LouieS-HW1.exe.config
+F:\GDAPSHW\LouieS-HW6\LouieS-HW1\obj\Debug\LouieS-HW1.exe
+F:\GDAPSHW\LouieS-HW6\LouieS-HW1\obj\Debug\LouieS-HW1.pdb
+F:\GDAPSHW\LouieS-HW6\LouieS-HW1\bin\Debug\LouieS-HW1.exe
+F:\GDAPSHW\LouieS-HW6\LouieS-HW1\bin\Debug\LouieS-HW1.pdb
+F:\GDAPSHW\LouieS-HW6\LouieS-HW1\obj\Debug\LouieS-HW6.csprojResolveAssemblyReference.cache
+F:\GDAPSHW\LouieS-HW7\LouieS-HW1\bin\Debug\LouieS-HW1.exe.config
+F:\GDAPSHW\LouieS-HW7\LouieS-HW1\obj\Debug\LouieS-HW1.exe
+F:\GDAPSHW\LouieS-HW7\LouieS-HW1\obj\Debug\LouieS-HW1.pdb
+F:\GDAPSHW\LouieS-HW7\LouieS-HW1\bin\Debug\LouieS-HW1.exe
+F:\GDAPSHW\LouieS-HW7\LouieS-HW1\bin\Debug\LouieS-HW1.pdb
+F:\GDAPSHW\LouieS-HW7\LouieS-HW1\obj\Debug\LouieS-HW6.csprojResolveAssemblyReference.cache
